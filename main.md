@@ -51,7 +51,7 @@
 
 ![L112-2](https://raw.githubusercontent.com/leegggg/renxingshiCR/master/res/L112-2.png)
 
-而美国等国对此有不同的处理。如美国Design Piracy Prohibition Act要求设计师在设计公开三个月内在向 U.S. Copyright Office注册设计，从而在三年的时间内享受知识产权保护[7]。
+而美国等国对此有不同的处理。如美国Design Piracy Prohibition Act要求设计师在设计公开三个月内在向 U.S. Copyright Office注册设计，从而在三年的时间内享受知识产权保护[7]。也就是说不注册声明的话也是得不到知识产权保护的。
 
 ![hr2033](https://raw.githubusercontent.com/leegggg/renxingshiCR/master/res/hr2033.png)
 
