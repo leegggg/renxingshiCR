@@ -73,8 +73,7 @@
 
 [5] https://www.wipo.int/treaties/zh/ip/berne/summary_berne.html
 
-[6] https://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006161634&
-cidTexte=LEGITEXT000006069414&dateTexte=20190121#LEGIARTI000006278875
+[6] https://www.legifrance.gouv.fr/affichCode.do;?idSectionTA=LEGISCTA000006161634&cidTexte=LEGITEXT000006069414&dateTexte=20190121#LEGIARTI000006278875
 
 [7] https://www.congress.gov/bill/110th-congress/house-bill/2033
 
