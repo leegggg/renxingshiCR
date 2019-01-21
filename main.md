@@ -1,10 +1,16 @@
 # 【讨论】大家认为当前“人形师”的知识产权还受（法律）保护吗？
 
+<p>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">知识共享署名-相同方式共享 3.0 未本地化版本许可协议</a>进行许可。
+</p>
+
 声明：不是宣山，但是想从法律角度讨论一下山寨的界定和知识产权的保护。
 
-本文也可以在 https://github.com/leegggg/renxingshiCR/blob/master/main.md 看到，排版好不少。
+本文也可以在 https://github.com/leegggg/renxingshiCR/blob/master/main.md 看，排版好不少。
 
-近几天看到了一些内容，然后突然想入坑lo了，一做功课发现这个圈子十分注意知识产权保护。于是恶补了一下关于知识产权问题的知识（关注点着实歪到九霄云外去了）。结果发现lo校服之一的也是被山最多的“人形师”似乎处于公共领域（无商标，无专利，无商业外观，不受著作权保护）。人形师的情况十分典型，很有可能其他设计也有同样的问题。这样的话对人形师的各种山寨实际上从法律角度上来讲并没有问题。
+
+
+近几天看到了一些内容，然后突然想入坑lo了，一做功课发现这个圈子十分注意知识产权保护。于是恶补了一下关于知识产权问题的知识（关注点着实歪到九霄云外去了）。结果发现lo校服之一的也是被山最多的“人形师”似乎处于公共领域（无商标，无专利，无商业外观，不受著作权保护）。人形师的情况十分典型，很有可能其他设计也有同样的问题。如果真的在公共领域的话那么对人形师的各种山寨实际上从法律角度上来讲并没有问题。
 
 * 公共领域知识本来就可以随意使用。
 
@@ -93,6 +99,3 @@
 
 [11] http://www.iprixmu.com/page264?article_id=54
 
-<p>
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">知识共享署名-相同方式共享 3.0 未本地化版本许可协议</a>进行许可。
-</p>
